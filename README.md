@@ -9,6 +9,13 @@ Easy installation process with clear instructions.
 Supports all of the latest features and functions of Autohotkey language v2.
 Customizable color scheme to fit your preferences.
 Regularly updated to ensure compatibility with the latest version of Sublime Text.
+# Quickstart 
+
+- Goto explorer and click on the address bar and enter:
+- ```%appdata%```
+- Goto sublimetext\User
+- Extract this repo's file contents
+
 # Installation
 To install the Sublime Text Syntax Highlighting Package for Autohotkey Language v2, simply follow these steps:
 
